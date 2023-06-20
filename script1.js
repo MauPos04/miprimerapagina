@@ -8,9 +8,9 @@ let boton = document.getElementById("miBoton");
 
 //Añadimos un oyente de eventos que "escuche el evento de clicl"
 
-boton.addEventListener("click", function(){
-    alert("¡Haz hecho clic en el botón!");
-});
+// boton.addEventListener("click", function(){
+//     alert("¡Haz hecho clic en el botón!");
+// });
 
 document.querySelector("button.button-menu-toggle")
     .addEventListener("click", function() {
